@@ -26,6 +26,7 @@ export default function AppNavbar() {
                 <NavDropdown.Item as={Link} to="/towns/Copenhagen">Copenhagen</NavDropdown.Item>
                 <NavDropdown.Item as={Link} to="/towns/LosAngeles">Los Angeles</NavDropdown.Item>
                 <NavDropdown.Item as={Link} to="/towns/Valencia">Valencia</NavDropdown.Item>
+                <NavDropdown.Item as={Link} to="/towns/Fremont">Fremont</NavDropdown.Item>
               </NavDropdown>
             </Nav>
           </Navbar.Collapse>
