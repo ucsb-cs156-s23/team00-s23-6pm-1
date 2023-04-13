@@ -5,6 +5,7 @@ import LosAlamosPage from "main/pages/LosAlamosPage";
 import ArroyoGrandePage from "main/pages/ArroyoGrandePage";
 
 import "bootstrap/dist/css/bootstrap.css";
+import CopenhagenPage from "main/pages/CopenhagenPage";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Route exact path="/towns/AvilaBeach" element={<AvilaBeachPage />} />
         <Route exact path="/towns/LosAlamos" element={<LosAlamosPage />} />
         <Route exact path="/towns/ArroyoGrande" element={<ArroyoGrandePage />} />
+        <Route exact path="/towns/Copenhagen" element={<CopenhagenPage />} />
       </Routes>
     </BrowserRouter>
   );
