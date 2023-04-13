@@ -10,7 +10,7 @@ export default function ValenciaPage() {
          Los Angeles County.  It is located about forty minutes north of Los Angeles, and about fifty minutes south-east of Ventura. 
          It is known for being the home of Six Flags Magic Mountain.
         </p>
-        <p>AG</p>
+        <p>Added by AG</p>
       </div>
     </BasicLayout>
   )
